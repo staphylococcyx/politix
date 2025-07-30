@@ -1,0 +1,128 @@
+{
+  "greeting": [
+    "Hello! Let's talk politics. What interests you today?",
+    "Hi there! Ready for a political discussion?",
+    "Hey! What political topic would you like to discuss?",
+    "Greetings! Politics is always an exciting topic.",
+    "Welcome! Feel free to ask about any political issue or event.",
+    "It's great to see your interest in politics! What's on your mind?",
+    "How can I assist you with political information today?"
+  ],
+  "elections": [
+    "Elections are a cornerstone of democracy. Do you want to discuss recent elections, voting systems, or campaign strategies?",
+    "Voting is a powerful tool for change. Any particular election or candidate on your mind?",
+    "Election turnout and results can shape the future. What aspect interests you?",
+    "If you mention a specific country or candidate, I can provide more details!",
+    "Elections often reflect the will of the people. Which election are you curious about?",
+    "Would you like to talk about election laws, controversies, or reforms?",
+    "Are you interested in international or local elections?"
+  ],
+  "leaders": [
+    "Political leaders shape the direction of a country. Any leader you want to talk about?",
+    "Leadership in politics is always a hot topic. Who do you have in mind?",
+    "From presidents to prime ministers, leaders play a crucial role. Want to discuss their impact?",
+    "If you mention a leader's name, I can share more information about them!",
+    "Leaders often influence both domestic and international policies.",
+    "Would you like to discuss a leader's achievements or controversies?",
+    "Are you interested in current or historical political leaders?"
+  ],
+  "parties": [
+    "Political parties represent different ideologies. Which party or ideology interests you?",
+    "Party politics can be complex. Want to discuss a specific party or coalition?",
+    "The dynamics between parties often drive political change. Any recent events you want to discuss?",
+    "If you mention a party name, I can provide more details about its platform or history.",
+    "Parties often evolve over time. Is there a party transformation you want to discuss?",
+    "Would you like to compare different political parties?",
+    "Are you interested in party manifestos or election promises?"
+  ],
+  "policies": [
+    "Policies affect our daily lives. Is there a policy, law, or reform you want to discuss?",
+    "Legislation and reforms are crucial in politics. Any recent bill or regulation you want to talk about?",
+    "Policy debates often reflect society's priorities. Which topic interests you?",
+    "If you mention a specific policy or law, I can try to provide more context.",
+    "Policies can have long-term effects. Is there a policy change you are following?",
+    "Would you like to discuss economic, social, or foreign policies?",
+    "Are you interested in policy impacts or controversies?"
+  ],
+  "scandals": [
+    "Political scandals can have major consequences. Is there a recent controversy you want to discuss?",
+    "Corruption and investigations often make headlines. Which case are you interested in?",
+    "Scandals can change public trust. Do you want to talk about a specific event?",
+    "If you mention a scandal or person involved, I can provide more background.",
+    "Scandals often lead to reforms or resignations. Any particular case in mind?",
+    "Would you like to discuss the impact of scandals on elections or policies?",
+    "Are you interested in historical or recent political scandals?"
+  ],
+  "international": [
+    "International relations shape global politics. Any recent diplomatic events or treaties on your mind?",
+    "Foreign policy and alliances are key topics. Want to discuss a particular country or conflict?",
+    "The United Nations and global summits often address major issues. Anything specific you want to explore?",
+    "If you mention a country or treaty, I can share more details.",
+    "International politics can be complex. Is there a global issue you want to discuss?",
+    "Would you like to talk about international organizations or agreements?",
+    "Are you interested in peace processes or conflicts?"
+  ],
+  "economy": [
+    "Economic policies impact everyone. Want to discuss inflation, unemployment, or trade?",
+    "Budgets, taxes, and spending are always debated. Any economic topic you want to explore?",
+    "The economy is closely tied to politics. Which aspect interests you most?",
+    "If you mention a specific economic issue or country, I can provide more information.",
+    "Economic crises often lead to political change. Any recent events you want to discuss?",
+    "Would you like to discuss economic reforms or stimulus packages?",
+    "Are you interested in global or local economic issues?"
+  ],
+  "protests": [
+    "Protests and movements can drive political change. Is there a recent demonstration you want to discuss?",
+    "Activism and strikes often highlight important issues. Any movement you support or want to talk about?",
+    "Public demonstrations can influence policy. Which protest caught your attention?",
+    "If you mention a protest or movement, I can share more about its background.",
+    "Protests often reflect public sentiment. Any recent examples you want to discuss?",
+    "Would you like to discuss the causes or outcomes of protests?",
+    "Are you interested in peaceful or violent protests?"
+  ],
+  "history": [
+    "Political history provides valuable lessons. Any historical event or revolution you want to discuss?",
+    "Founders and constitutions shape nations. Want to talk about a country's political past?",
+    "Historical treaties and legacies often influence current politics. Any topic in mind?",
+    "If you mention a historical figure or event, I can provide more details.",
+    "History often repeats itself in politics. Any parallels you see today?",
+    "Would you like to discuss the evolution of political systems?",
+    "Are you interested in ancient or modern political history?"
+  ],
+  "media": [
+    "The media plays a big role in politics. Want to discuss news coverage or journalism?",
+    "Press freedom and reporting are important topics. Any recent article or interview you found interesting?",
+    "Media coverage can shape public opinion. Which story do you want to talk about?",
+    "If you mention a media outlet or journalist, I can share more information.",
+    "Media bias is a frequent topic. Any examples you want to discuss?",
+    "Would you like to discuss the role of social media in politics?",
+    "Are you interested in media regulations or censorship?"
+  ],
+  "public_opinion": [
+    "Polls and surveys reflect public sentiment. Want to discuss approval ratings or trends?",
+    "Public opinion can influence political decisions. Any recent poll results you want to analyze?",
+    "Approval and disapproval ratings are closely watched. Which politician or issue interests you?",
+    "If you mention a poll or survey, I can provide more context.",
+    "Public opinion often shifts quickly. Any recent changes you noticed?",
+    "Would you like to discuss how public opinion is measured?",
+    "Are you interested in the impact of public opinion on policy?"
+  ],
+  "farewell": [
+    "Goodbye! Stay informed and engaged.",
+    "See you next time! Keep the political discussions going.",
+    "Farewell! Remember, your voice matters in politics.",
+    "Take care! Stay curious about the world.",
+    "Wishing you insightful political conversations ahead!",
+    "Thanks for chatting! Stay politically aware.",
+    "Hope to see you again for more political discussions."
+  ],
+  "default": [
+    "That's interesting! Can you tell me more or specify a political topic?",
+    "I'm here to discuss politics. Could you clarify your question or topic?",
+    "Politics covers many areas—elections, leaders, policies, and more. What would you like to talk about?",
+    "If you mention a specific topic, I can try to provide more details!",
+    "Feel free to ask about any political event, person, or issue.",
+    "I'm here to help with any political questions you have.",
+    "Let me know if you want to discuss a particular country, leader, or policy."
+  ]
+}
